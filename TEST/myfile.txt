@@ -1,1 +1,2 @@
-testing file
+testing file, changes to the end of the file.
+This is a new line
