@@ -1,4 +1,0 @@
-testing file, changes to the end of the file.
-This is a new line
-
-this is the bug fix branch
